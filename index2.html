@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<title>Geog 483 Leaflet Tutorial</title>
+	<!-- This tutorial is based on the official Leaflet quickstart: http://leafletjs.com/examples/quick-start/ -->
+
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
+
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
+	<script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
+
+</head>
+<body>
+
+<style>
+    	body { margin:0; padding:0; }
+    	#mapid { padding: 0; margin: 100px auto 0 auto; height: 700px; width: 800px;}
+		h3 {color: #562d06;}
+		strong {color: #e68e74;}
+		b {color: #e68e74;}
+</style>
+
+<div id="mapid"</div>
+<script>
+
+	var mymap = L.map('mapid').setView([43.468275, -80.542973], 15);
+
+	L.tileLayer("http://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+		attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, '
+	}).addTo(mymap);
+
+	L.marker([43.466, -80.53]).addTo(mymap)
+		.bindPopup("<b>Hello world!</b><br />I am a popup.").openPopup();
+	<!-- four more markers -->
+	L.marker([43.468275, -80.542973]).addTo(mymap)
+	    .bindPopup("<h3>ENV</h3><strong>Environment Student Coffee Shop</strong>" + "<img src='http://ess.uwaterloo.ca/files/2015/06/coffeeshop.jpg' alt='Mountain View' width='300px'>" + "<a href='http://ess.uwaterloo.ca/coffee-shop/' target='_blank'><b>Go to Website</b></a>").openPopup();
+	L.marker([43.469190, -80.540189]).addTo(mymap)
+		.bindPopup("<h3>SCH</h3><strong>Tim Hortons</strong>" + "<img src='http://dining.carleton.ca/wp-content/uploads/banner-tim-hortons.jpg' alt='Mountain View' width='300px'>" + "<a href='http://www.timhortons.com/ca/en/index.php' target='_blank'><b>Go to Website</b></a>").openPopup();
+	L.marker([43.469692, -80.541976]).addTo(mymap)
+		.bindPopup("<h3>DP</h3><strong>Browser Cafe</strong>" + "<img src='http://ess.uwaterloo.ca/files/2015/06/coffeeshop.jpg' alt='Mountain View' width='300px'>" + "<a href='https://uwaterloo.ca/map/?basemap=D#map=16/43.4690/-80.5405' target='_blank'><b>Go to Website(See campus map)</b></a>").openPopup();
+	L.marker([43.470579, -80.543515]).addTo(mymap)
+		.bindPopup("<h3>B2</h3><strong>Starbucks</strong>" + "<img src='https://uwaterloo.ca/science/sites/ca.science/files/styles/wide-body-750px-wide/public/uploads/images/starbucks_stc_0.jpg?itok=CGg6mcN-' alt='Mountain View' width='300px'>" + "<a href='https://www.starbucks.ca/' target='_blank'><b>Go to Website</b></a>").openPopup(); 
+
+</script>
+
+
+
+</body>
+</html>
