@@ -1,0 +1,775 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.54359926,43.4719005 ]
+    },
+    "properties": {
+    "title":"Math Coffee & Donut Shop",
+    "FID":0,
+    "description":"200 University Ave W 3002 Waterloo Waterloo ON N2L3G1 CA",
+    "building name":"Mathematics and Computer",
+    "drinks availability":"Coffee,Juice,Water,Milk,Pop/Soda,Tea,Energy Drinks",
+    "coffee price":0.75,
+    "tea price":0.75,
+    "muffin price":1.1,
+    "chocolate price":1.1,
+    "other products":"Sandwiches/Wraps,Hot Food,Cookies,Muffins,Donuts,Chips/Snacks,Chocolate Bars,Candy,Salads",
+    "marker-size":"medium",
+    "marker-symbol":"cafe",
+    "marker-color":"#ffc0cb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.54276898,43.46829626 ]
+    },
+    "properties": {
+    "title":"ES Coffee Shop",
+    "FID":1,
+    "description":"Ring Road Waterloo Ontario N2L 3G1 Canada",
+    "building name":"EV 1",
+    "drinks availability":"Coffee,Tea,Pop/Soda,Milk",
+    "coffee price":1,
+    "tea price":0.75,
+    "muffin price":0,
+    "chocolate price":1,
+    "other products":"Cookies,Hot Food",
+    "marker-size":"medium",
+    "marker-symbol":"cafe",
+    "marker-color":"#ffc0cb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.54345026,43.4681875 ]
+    },
+    "properties": {
+    "title":"William's Fresh Café",
+    "FID":2,
+    "description":"Ring Road Waterloo Ontario N2L 3G1 Canada",
+    "building name":"EV3",
+    "drinks availability":"Coffee,Tea,Pop/Soda,Milk",
+    "coffee price":3.39,
+    "tea price":1.79,
+    "muffin price":2.29,
+    "chocolate price":0.99,
+    "other products":"Muffins,Cookies,Sandwiches/Wraps,Hot Food",
+    "marker-size":"medium",
+    "marker-symbol":"cafe",
+    "marker-color":"#ffc0cb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.54500326,43.4664105 ]
+    },
+    "properties": {
+    "title":"Common Ground",
+    "FID":3,
+    "description":"200 Westmount Rd N Waterloo Waterloo ON N2L 5H8 CA",
+    "building name":"Conrad Grebel University College",
+    "drinks availability":"Coffee",
+    "coffee price":1,
+    "tea price":1,
+    "muffin price":1,
+    "chocolate price":1,
+    "other products":"Chips/Snacks,Chocolate Bars",
+    "marker-size":"medium",
+    "marker-symbol":"cafe",
+    "marker-color":"#ffc0cb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.54565726,43.4690695 ]
+    },
+    "properties": {
+    "title":"The Funcken Café",
+    "FID":4,
+    "description":"290 Westmount Rd N Waterloo Waterloo ON N2L 3G5 CA",
+    "building name":"St. Jerome's",
+    "drinks availability":"Coffee,Pop/Soda,Water,Tea",
+    "coffee price":2.4,
+    "tea price":2.25,
+    "muffin price":2.25,
+    "chocolate price":2,
+    "other products":" ",
+    "marker-size":"medium",
+    "marker-symbol":"cafe",
+    "marker-color":"#ffc0cb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.54193226,43.4688435 ]
+    },
+    "properties": {
+    "title":"Arts Student Union",
+    "FID":5,
+    "description":" ",
+    "building name":"AL",
+    "drinks availability":"Coffee,Tea,Pop/Soda,Water",
+    "coffee price":0.5,
+    "tea price":0.5,
+    "muffin price":0,
+    "chocolate price":0,
+    "other products":"Chips/Snacks,Chocolate Bars,Candy",
+    "marker-size":"medium",
+    "marker-symbol":"cafe",
+    "marker-color":"#ffc0cb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.54630526,43.4677965 ]
+    },
+    "properties": {
+    "title":"Watson's Eatery",
+    "FID":6,
+    "description":"190 Westmount Rd N Waterloo Waterloo ON N2L 3G5 CA",
+    "building name":"St. Paul's University",
+    "drinks availability":"Tea,Coffee,Juice,Pop/Soda,Milk,Water",
+    "coffee price":1.25,
+    "tea price":1.25,
+    "muffin price":1.25,
+    "chocolate price":1.25,
+    "other products":" ",
+    "marker-size":"medium",
+    "marker-symbol":"cafe",
+    "marker-color":"#ffc0cb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.54349326,43.4708355 ]
+    },
+    "properties": {
+    "title":"Starbucks",
+    "FID":7,
+    "description":"200 Ring rd Waterloo Waterloo ON N2L CA",
+    "building name":"STC",
+    "drinks availability":"Coffee,Juice,Tea,Milk,Water",
+    "coffee price":3.95,
+    "tea price":3.95,
+    "muffin price":2.25,
+    "chocolate price":2.25,
+    "other products":"Cookies,Muffins,Sandwiches/Wraps",
+    "marker-size":"medium",
+    "marker-symbol":"cafe",
+    "marker-color":"#ffc0cb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.54635168,43.4679187 ]
+    },
+    "properties": {
+    "title":"Watson's Mug",
+    "FID":8,
+    "description":"198 Glen Rd Kitchener Waterloo ON N2M 3G2 CA",
+    "building name":"St. Paul's University",
+    "drinks availability":" ",
+    "coffee price":1.95,
+    "tea price":1.95,
+    "muffin price":0,
+    "chocolate price":1,
+    "other products":" ",
+    "marker-size":"medium",
+    "marker-symbol":"cafe",
+    "marker-color":"#ffc0cb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.54307426,43.4709455 ]
+    },
+    "properties": {
+    "title":"Science C & D",
+    "FID":9,
+    "description":"200 University Ave W Waterloo Waterloo ON N2L CA",
+    "building name":"STC",
+    "drinks availability":"Coffee,Tea,Juice,Pop/Soda,Milk,Water,Energy Drinks",
+    "coffee price":0.75,
+    "tea price":1,
+    "muffin price":1,
+    "chocolate price":1,
+    "other products":"Candy,Chocolate Bars,Hot Food,Chips/Snacks,Donuts,Cookies,Muffins,Sandwiches/Wraps",
+    "marker-size":"medium",
+    "marker-symbol":"cafe",
+    "marker-color":"#ffc0cb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.54258226,43.4671465 ]
+    },
+    "properties": {
+    "title":"PAS Lounge",
+    "FID":10,
+    "description":"Ring Road Waterloo Ontario N2L 3G1 Canada",
+    "building name":"PAS",
+    "drinks availability":"Coffee,Tea,Juice,Pop/Soda,Water",
+    "coffee price":1.89,
+    "tea price":1.79,
+    "muffin price":1.59,
+    "chocolate price":1.09,
+    "other products":"Muffins,Cookies,Sandwiches/Wraps,Salads",
+    "marker-size":"medium",
+    "marker-symbol":"cafe",
+    "marker-color":"#ffc0cb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.54550526,43.4692215 ]
+    },
+    "properties": {
+    "title":"St. Jerome's Cafeteria",
+    "FID":11,
+    "description":"115 Forfar St W Haldimand-Norfolk ON N3W 1J2 CA",
+    "building name":"St. Jerome's University",
+    "drinks availability":" ",
+    "coffee price":1.5,
+    "tea price":0,
+    "muffin price":0,
+    "chocolate price":0,
+    "other products":" ",
+    "marker-size":"medium",
+    "marker-symbol":"cafe",
+    "marker-color":"#ffc0cb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.54018564,43.46913035 ]
+    },
+    "properties": {
+    "title":"Tim Horton's",
+    "FID":12,
+    "description":"Ring Road Waterloo Ontario N2L 3G1 Canada",
+    "building name":"South Campus Hall",
+    "drinks availability":"Coffee,Tea,Juice,Pop/Soda,Milk,Water",
+    "coffee price":1.43,
+    "tea price":1.62,
+    "muffin price":1.39,
+    "chocolate price":0.99,
+    "other products":"Muffins,Cookies,Donuts,Sandwiches/Wraps,Chips/Snacks,Hot Food,Salads",
+    "marker-size":"medium",
+    "marker-symbol":"cafe",
+    "marker-color":"#ffc0cb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.54083426,43.4697795 ]
+    },
+    "properties": {
+    "title":"Graduate House",
+    "FID":13,
+    "description":"SCH Concourse Waterloo Ontario N2L 3G1 Canada",
+    "building name":"Graduate House",
+    "drinks availability":"Coffee,Tea,Juice,Pop/Soda,Water",
+    "coffee price":1,
+    "tea price":1,
+    "muffin price":0,
+    "chocolate price":0,
+    "other products":"Sandwiches/Wraps,Chips/Snacks,Hot Food,Salads",
+    "marker-size":"medium",
+    "marker-symbol":"cafe",
+    "marker-color":"#ffc0cb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.53924027,43.4707095 ]
+    },
+    "properties": {
+    "title":"Waterloo Engineering Society C&D",
+    "FID":14,
+    "description":"Ring Road Waterloo Ontario N2L 3G1 Canada",
+    "building name":"Carl A. Pollock Hall",
+    "drinks availability":"Coffee,Tea,Juice,Pop/Soda,Milk,Water,Energy Drinks",
+    "coffee price":0.9,
+    "tea price":0.65,
+    "muffin price":1.1,
+    "chocolate price":1,
+    "other products":"Muffins,Cookies,Donuts,Sandwiches/Wraps,Chips/Snacks,Hot Food,Salads",
+    "marker-size":"medium",
+    "marker-symbol":"cafe",
+    "marker-color":"#ffc0cb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.54206126,43.4715775 ]
+    },
+    "properties": {
+    "title":"CEIT cafe",
+    "FID":15,
+    "description":"Waterloo Waterloo Regional Municipality Ontario Canada",
+    "building name":"Centre for Environmental and Information Technology",
+    "drinks availability":"Coffee,Tea,Juice,Pop/Soda,Milk,Water",
+    "coffee price":1.89,
+    "tea price":1.79,
+    "muffin price":1.59,
+    "chocolate price":1.09,
+    "other products":"Muffins,Cookies,Sandwiches/Wraps,Chips/Snacks,Hot Food,Salads",
+    "marker-size":"medium",
+    "marker-symbol":"cafe",
+    "marker-color":"#ffc0cb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.54994626,43.4716475 ]
+    },
+    "properties": {
+    "title":"mudie's",
+    "FID":16,
+    "description":"Kitchener Ontario Canada",
+    "building name":"Village 1",
+    "drinks availability":"Coffee,Tea,Juice,Pop/Soda,Milk,Water,Energy Drinks",
+    "coffee price":1.89,
+    "tea price":1.79,
+    "muffin price":1.5,
+    "chocolate price":1.5,
+    "other products":"Muffins,Cookies,Donuts,Sandwiches/Wraps,Chips/Snacks,Hot Food,Salads,Chocolate Bars,Candy",
+    "marker-size":"medium",
+    "marker-symbol":"cafe",
+    "marker-color":"#ffc0cb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.54519826,43.4713395 ]
+    },
+    "properties": {
+    "title":"Tim Hortons",
+    "FID":17,
+    "description":"SLC Great Hall Waterloo Ontario N2L 3G1 Canada",
+    "building name":"SLC",
+    "drinks availability":"Coffee,Tea,Juice,Pop/Soda,Milk,Water",
+    "coffee price":1.43,
+    "tea price":1.62,
+    "muffin price":1.39,
+    "chocolate price":0.99,
+    "other products":"Muffins,Cookies,Donuts,Sandwiches/Wraps,Chips/Snacks,Hot Food,Salads",
+    "marker-size":"medium",
+    "marker-symbol":"cafe",
+    "marker-color":"#ffc0cb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.53583727,43.4723605 ]
+    },
+    "properties": {
+    "title":"Second Cup",
+    "FID":18,
+    "description":"150 University Ave W Waterloo Waterloo ON N2L 3E4 CA",
+    "building name":"Second Cup",
+    "drinks availability":"Coffee,Tea,Juice,Pop/Soda,Milk,Water",
+    "coffee price":1.8,
+    "tea price":1.9,
+    "muffin price":2.3,
+    "chocolate price":2.25,
+    "other products":"Muffins,Cookies,Sandwiches/Wraps,Chips/Snacks,Salads",
+    "marker-size":"medium",
+    "marker-symbol":"cafe",
+    "marker-color":"#ffc0cb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.53865327,43.4722665 ]
+    },
+    "properties": {
+    "title":"Williams Fresh Cafe",
+    "FID":19,
+    "description":"170 University Avenue West Waterloo Ontario N2L 3E9 Canada",
+    "building name":"Williams Fresh Cafe",
+    "drinks availability":"Coffee,Tea,Juice,Pop/Soda,Milk,Water",
+    "coffee price":1.6,
+    "tea price":1.8,
+    "muffin price":0,
+    "chocolate price":0,
+    "other products":" ",
+    "marker-size":"medium",
+    "marker-symbol":"cafe",
+    "marker-color":"#ffc0cb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.54344023,43.46960175 ]
+    },
+    "properties": {
+    "title":"Pastry Plus",
+    "FID":20,
+    "description":"200 University Ave W Waterloo Waterloo ON N2L CA",
+    "building name":"Needles Hall",
+    "drinks availability":"Coffee,Tea",
+    "coffee price":1.89,
+    "tea price":1.79,
+    "muffin price":1.59,
+    "chocolate price":1.09,
+    "other products":"Muffins,Cookies,Sandwiches/Wraps,Chips/Snacks,Salads,Chocolate Bars,Candy",
+    "marker-size":"medium",
+    "marker-symbol":"cafe",
+    "marker-color":"#ffc0cb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.54227826,43.4668595 ]
+    },
+    "properties": {
+    "title":"Browsers Cafe",
+    "FID":21,
+    "description":"Ring Road Waterloo Ontario N2L 3G1 Canada",
+    "building name":"Dana Porter Library",
+    "drinks availability":"Coffee,Tea,Juice,Pop/Soda,Milk,Water",
+    "coffee price":1.89,
+    "tea price":1.79,
+    "muffin price":1.59,
+    "chocolate price":1.09,
+    "other products":"Muffins,Cookies,Sandwiches/Wraps,Salads,Candy",
+    "marker-size":"medium",
+    "marker-symbol":"cafe",
+    "marker-color":"#ffc0cb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.54266926,43.4687945 ]
+    },
+    "properties": {
+    "title":"Modern Languages Cafeteria",
+    "FID":22,
+    "description":"Ring Road Waterloo Ontario N2L 3G1 Canada",
+    "building name":"Modern languages",
+    "drinks availability":"Coffee,Tea",
+    "coffee price":1.43,
+    "tea price":1.62,
+    "muffin price":1.39,
+    "chocolate price":0.99,
+    "other products":"Muffins,Cookies,Donuts",
+    "marker-size":"medium",
+    "marker-symbol":"cafe",
+    "marker-color":"#ffc0cb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.54227826,43.4668595 ]
+    },
+    "properties": {
+    "title":"Pastry Plud",
+    "FID":23,
+    "description":"Ring Road Waterloo Ontario N2L 3G1 Canada",
+    "building name":"Needles Hall",
+    "drinks availability":"Coffee,Tea,Pop/Soda,Milk",
+    "coffee price":1.89,
+    "tea price":1.79,
+    "muffin price":1.59,
+    "chocolate price":1.09,
+    "other products":"Muffins,Cookies,Sandwiches/Wraps,Hot Food,Salads,Chocolate Bars,Candy",
+    "marker-size":"medium",
+    "marker-symbol":"cafe",
+    "marker-color":"#ffc0cb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.54483926,43.4663635 ]
+    },
+    "properties": {
+    "title":"Common Ground",
+    "FID":24,
+    "description":"140 Westmount Road North æ»‘é“å¢ å®‰å¤§ç•¥çœ N2L 3G6 åŠ æ‹¿å¤§",
+    "building name":"Conrad Grebel University College",
+    "drinks availability":"Coffee,Tea,Juice,Pop/Soda,Milk,Water",
+    "coffee price":1,
+    "tea price":1,
+    "muffin price":0,
+    "chocolate price":0,
+    "other products":"Chips/Snacks,Chocolate Bars",
+    "marker-size":"medium",
+    "marker-symbol":"cafe",
+    "marker-color":"#ffc0cb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.54480526,43.4668015 ]
+    },
+    "properties": {
+    "title":"common ground",
+    "FID":25,
+    "description":"200 Westmount Rd N æ»‘é“å¢ æ²ƒç‰¹å¢ ON N2L 5H8 CA",
+    "building name":"Conrad grebel college",
+    "drinks availability":"Coffee,Tea,Juice,Pop/Soda",
+    "coffee price":1,
+    "tea price":0,
+    "muffin price":1,
+    "chocolate price":1,
+    "other products":"Chocolate Bars",
+    "marker-size":"medium",
+    "marker-symbol":"cafe",
+    "marker-color":"#ffc0cb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.54606426,43.4675985 ]
+    },
+    "properties": {
+    "title":"Watson's eatery",
+    "FID":26,
+    "description":"190 Westmount Rd N æ»‘é“å¢ æ²ƒç‰¹å¢ ON N2L 3G5 CA",
+    "building name":"St. Paul's college",
+    "drinks availability":"Coffee,Tea,Pop/Soda,Milk",
+    "coffee price":1.25,
+    "tea price":1.25,
+    "muffin price":1.25,
+    "chocolate price":0,
+    "other products":"Salads,Muffins,Hot Food",
+    "marker-size":"medium",
+    "marker-symbol":"cafe",
+    "marker-color":"#ffc0cb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.54208226,43.4697345 ]
+    },
+    "properties": {
+    "title":"Browsers cafe",
+    "FID":27,
+    "description":"200 University Ave W Waterloo Waterloo ON N2L CA",
+    "building name":"DP library",
+    "drinks availability":"Coffee,Tea,Juice,Pop/Soda,Milk,Water",
+    "coffee price":1.89,
+    "tea price":1.79,
+    "muffin price":1.59,
+    "chocolate price":1.09,
+    "other products":"Muffins,Cookies,Sandwiches/Wraps,Chips/Snacks,Salads,Chocolate Bars,Candy",
+    "marker-size":"medium",
+    "marker-symbol":"cafe",
+    "marker-color":"#ffc0cb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.54271226,43.4689095 ]
+    },
+    "properties": {
+    "title":"Tim Hortons",
+    "FID":28,
+    "description":"Ring Road Waterloo Ontario N2L 3G1 Canada",
+    "building name":"Modern Languages",
+    "drinks availability":"Coffee,Tea,Water",
+    "coffee price":1.43,
+    "tea price":1.62,
+    "muffin price":1.39,
+    "chocolate price":0.99,
+    "other products":"Muffins,Cookies,Donuts",
+    "marker-size":"medium",
+    "marker-symbol":"cafe",
+    "marker-color":"#ffc0cb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.54229668,43.47261009 ]
+    },
+    "properties": {
+    "title":"DC Tim Hortons Express",
+    "FID":29,
+    "description":" ",
+    "building name":" ",
+    "drinks availability":" ",
+    "coffee price":0,
+    "tea price":0,
+    "muffin price":0,
+    "chocolate price":0,
+    "other products":" ",
+    "marker-size":"medium",
+    "marker-symbol":"cafe",
+    "marker-color":"#ffc0cb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.54267523,43.47294087 ]
+    },
+    "properties": {
+    "title":"DC Tim Hortons",
+    "FID":30,
+    "description":" ",
+    "building name":" ",
+    "drinks availability":" ",
+    "coffee price":0,
+    "tea price":0,
+    "muffin price":0,
+    "chocolate price":0,
+    "other products":" ",
+    "marker-size":"medium",
+    "marker-symbol":"cafe",
+    "marker-color":"#ffc0cb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.54540225,43.47202278 ]
+    },
+    "properties": {
+    "title":"Brubakers SLC",
+    "FID":31,
+    "description":" ",
+    "building name":" ",
+    "drinks availability":" ",
+    "coffee price":0,
+    "tea price":0,
+    "muffin price":0,
+    "chocolate price":0,
+    "other products":" ",
+    "marker-size":"medium",
+    "marker-symbol":"cafe",
+    "marker-color":"#ffc0cb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.54556224,43.47350684 ]
+    },
+    "properties": {
+    "title":"Starbucks BMH",
+    "FID":32,
+    "description":" ",
+    "building name":" ",
+    "drinks availability":" ",
+    "coffee price":0,
+    "tea price":0,
+    "muffin price":0,
+    "chocolate price":0,
+    "other products":" ",
+    "marker-size":"medium",
+    "marker-symbol":"cafe",
+    "marker-color":"#ffc0cb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.55425088,43.47030098 ]
+    },
+    "properties": {
+    "title":"REVelation REV",
+    "FID":33,
+    "description":" ",
+    "building name":" ",
+    "drinks availability":" ",
+    "coffee price":0,
+    "tea price":0,
+    "muffin price":0,
+    "chocolate price":0,
+    "other products":" ",
+    "marker-size":"medium",
+    "marker-symbol":"cafe",
+    "marker-color":"#ffc0cb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.54142631,43.46837487 ]
+    },
+    "properties": {
+    "title":"Liquid Assets HH",
+    "FID":34,
+    "description":" ",
+    "building name":" ",
+    "drinks availability":" ",
+    "coffee price":0,
+    "tea price":0,
+    "muffin price":0,
+    "chocolate price":0,
+    "other products":" ",
+    "marker-size":"medium",
+    "marker-symbol":"cafe",
+    "marker-color":"#ffc0cb"
+    }
+  }
+]
+}
